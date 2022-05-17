@@ -1,0 +1,9 @@
+C:\Users\Wassim\source\repos\MSI_service\MSI_service\bin\Debug\MSI_service.exe.config
+C:\Users\Wassim\source\repos\MSI_service\MSI_service\bin\Debug\MSI_service.exe
+C:\Users\Wassim\source\repos\MSI_service\MSI_service\bin\Debug\MSI_service.pdb
+C:\Users\Wassim\source\repos\MSI_service\MSI_service\obj\Debug\MSI_service.csprojAssemblyReference.cache
+C:\Users\Wassim\source\repos\MSI_service\MSI_service\obj\Debug\MSI_service.ProjectInstaller.resources
+C:\Users\Wassim\source\repos\MSI_service\MSI_service\obj\Debug\MSI_service.csproj.GenerateResource.cache
+C:\Users\Wassim\source\repos\MSI_service\MSI_service\obj\Debug\MSI_service.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\source\repos\MSI_service\MSI_service\obj\Debug\MSI_service.exe
+C:\Users\Wassim\source\repos\MSI_service\MSI_service\obj\Debug\MSI_service.pdb
