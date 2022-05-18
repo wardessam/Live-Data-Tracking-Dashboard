@@ -1,0 +1,45 @@
+button{
+    background-color: #C80D18;
+    color : white;
+    border: none;
+    height: 36px;
+    width : 150px;
+}
+.floated{
+    float:left;
+    margin-right:15px;
+}
+.ReportContainer{
+    margin-top: 30px;
+    display: flex;
+    justify-Content: center;
+    
+}   
+
+
+
+  
+
+.headingText{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+
+
+.my-custom-scrollbar {
+    position: relative;
+    overflow: auto;
+}
+
+
+.table-wrapper-scroll-y {
+    display: block;
+}
+
+
+
+#thetable{
+    margin-left: 2%;
+    height: 100%;
+}

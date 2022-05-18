@@ -1,0 +1,56 @@
+    .icon-button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    color: #333333;
+    background: #00427E;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    margin-top: 10px;
+  }
+  
+  .icon-button:hover {
+    cursor: pointer;
+  }
+  
+  .icon-button:active {
+    background: #cccccc;
+  }
+  
+  .icon-button__badge {
+    position: absolute;
+    top: -0.5px;
+    right: -0.5px;
+    font-size: small;
+    width:25px;
+    height: 25px;
+    background: red;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+  }
+  
+  .NotificationName{
+    padding: 20px;
+    font-weight: bold;
+
+  }
+  
+  
+  .NotificationTime{
+      font-weight: 400;
+      color : rgb(170, 145, 145);
+      margin-top: 2px;
+      text-align: center;
+  }
+
+  .NewNotification{
+      color : hsl(214, 89%, 52%);
+      font-weight: bold;
+  }
